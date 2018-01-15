@@ -23,6 +23,10 @@ p {
 	font-weight: 300;
 	letter-spacing: 1.2px;
 }
+ul{
+	display: left;
+	text-align: left;
+}
 a, a:hover, a:focus {color: #fff; text-decoration: none;}
 button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, textarea,textarea:active, textarea:focus {outline: none;}
 .h2 {
